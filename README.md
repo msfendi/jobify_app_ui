@@ -4,13 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is build with Flutter Framework and the design inspired by 
 
-A few resources to get you started if this is your first Flutter project:
+Link Figma : https://www.figma.com/file/gB8dmiZ2YU5NL67YKrR80G/Slicing-UI-Session-Jobify-(Community)?type=design&node-id=0-1&mode=design&t=I1XdWWfXRgIZNjGp-0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/msfendi/jobify_app_ui/assets/50564515/5495fb36-7307-481a-8883-edbb1872d9d5)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Display Apps : 
+
